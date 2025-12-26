@@ -7,9 +7,9 @@
 팀 프로젝트용 회원가입 및 로그인 기능 구현입니다.
 
 ## 🛠 기술 스택
-- Frontend: React (또는 사용한 것)
-- Backend: Node.js / Express
-- DB: MySQL (또는 MongoDB)
+-Frontend: React
+-Backend: Java (Spring Boot, IntelliJ IDEA)
+- DB: MySQL 
 - Auth: JWT
 
 ## ✨ 주요 기능
